@@ -11,7 +11,7 @@ This is a simple web application that generates random quotes. It's a fun projec
 
 ## Demo
 
-[Link to Live Demo](https://your-quote-generator-demo-url.com)
+[Link to Live Demo](https://prinston.github.io/Quote_Generator/)
 
 ## Technologies Used
 
